@@ -7,3 +7,6 @@ lordi va dire ce que ta ecrit!
 pip install pyttsx3
 
 seeyuh
+
+
+# UI soon ughhhhh
